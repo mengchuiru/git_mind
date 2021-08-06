@@ -1,0 +1,7 @@
+{
+    
+    "led.led_dig|block": "设置数字引脚 [PINX] LED灯 [BUTTON]",
+    "Set analog [LINE] LED bringhtness[BLN] ":"设置LED灯PWM引脚[LINE]输出为[BLN]",
+    "led.BTN.ON|menu":"开启",
+    "led.BTN.OFF|menu":"关闭"
+}

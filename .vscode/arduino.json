@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "pytest\\sketch_aug04a\\sketch_aug04a.ino",
+    "port": "COM5"
+}

@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "LED灯",
+		"en": "LED Light"
+	},
+	"description": {
+		"zh-cn": "简单的发光装置",
+		"en": "Simple light-emitting device"
+	},
+	"author": "MCR",
+	"email": "mengchuiru@qq.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "led",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["microbit", "arduino"],
+			"main": "main.ts"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+  "name": {
+    "zh-cn": "模拟LM35线性温度传感器",
+    "en": "LM35 temperature Sensor"
+  },
+  "description": {
+    "zh-cn": "基于LM35半导体的温度传感器，可以用来对环境温度进行定性的检测。",
+    "en": "LM35 temperature Sensor"
+  },
+  "author": "Ski",
+  "email": "707626430@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "LM35_temperature_Sensor",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "microbit",
+        "arduino"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_menus/arduino.json",
+        "_menus/microbit.json",
+        "main.ts",
+        "libraries/libraries.zip"
+      ]
+    }
+  }
+}
