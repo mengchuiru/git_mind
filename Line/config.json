@@ -1,0 +1,30 @@
+{
+  "name": {
+    "zh-cn": " 巡线传感器",
+    "en": " Line Sensor"
+  },
+  "description": {
+    "zh-cn": "用于识别地面地面颜色灰度的传感器",
+    "en": "Sensor For Identifying Ground Color Grayscale"
+  },
+  "author": "MarsCollege",
+  "email": "wangyinshen@zju.edu.cn",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "line_sensor",
+  "version": "0.0.1",
+  "platform": [
+    "win",
+    "mac"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "microbit"
+      ],
+      "main": "main.ts"
+    }
+  }
+}

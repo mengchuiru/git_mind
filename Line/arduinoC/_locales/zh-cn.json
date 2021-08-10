@@ -1,0 +1,6 @@
+{
+    "Line_Sensor.LINE.0|menu": "白",
+    "Line_Sensor.LINE.1|menu": "黑",
+    "Line_Sensor.getGrayscale|block": "获取引脚 [PIN] 的灰度值",
+    "Line_Sensor.whiteBlack|block": "引脚 [PIN] 为 [COL] 色"
+}
