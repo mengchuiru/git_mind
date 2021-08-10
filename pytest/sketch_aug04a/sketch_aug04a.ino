@@ -8,5 +8,8 @@ void loop() {
   digitalWrite(13,HIGH);
   delay(200);
   digitalWrite(13,LOW);
+  analogRead(3);
+
+  digitalRead(5);
   delay(200);
 }
